@@ -1,0 +1,44 @@
+body {
+    background: orange;
+    font-family: sans-serif;
+}
+
+.title{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+}
+    
+#text{
+    display: flex;
+    height: 60vh;
+    width: 50vw;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#button{
+    height: 8vh;
+    width: 20vw;
+    margin: 2vh;
+    margin-left: 28%;
+}
+
+#button1{
+    height: 8vh;
+    width: 20vw;
+    margin: 4vh;
+    
+}
+
+.warning{
+    display: flex;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: center;
+}
